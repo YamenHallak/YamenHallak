@@ -78,7 +78,7 @@ $(function () {
     /**  Start Typed
      **====================== **/
     $(".kayo-work").typed({
-        strings: ["Information Technology Lecturer", " Cyber Security Researcher", "Networks Engineer", "Software Developer", "CMS Developer"],
+        strings: ["Information Technology Lecturer", "Cyber Security Researcher", "Networks Engineer", "Software Developer", "CMS Developer"],
         cursorChar: "",
         typeSpeed: 50,
         loop: true,
